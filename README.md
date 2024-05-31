@@ -16,4 +16,4 @@ Installing requirements
 ```python
 pip install -r requirements.txt
 ```
-Then run start.bat
+THEN RUN START.BAT!!!!
