@@ -1,4 +1,4 @@
-<img src="dualshockfun.svg" alt="dualshockfun logo" width="300px"/>
+<img src="dualshockfunlogo.svg" alt="dualshockfun logo" width="300px"/>
 
 What is DualshockFun?
 -------------
