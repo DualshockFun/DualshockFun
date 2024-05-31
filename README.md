@@ -12,8 +12,4 @@ Experience the ultimate in sensual stimulation with our Python script, where ple
 
 Usage
 -------------
-Installing requirements
-```python
-pip install -r requirements.txt
-```
-THEN RUN START.BAT!!!!
+**RUN START.BAT**
