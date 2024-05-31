@@ -13,3 +13,11 @@ Experience the ultimate in sensual stimulation with our Python script, where ple
 Usage
 -------------
 **RUN START.BAT**
+
+Troubleshooting
+-------------
+If your controller is vibrating stop and start then try closing and reopening the start.bat
+
+If your controller is vibrating but then randomly stopping try not to input stuff (use mouse and keyboard) while *using* it, obviously can watch *stuff* and keep things open.
+
+These are the only issues I've come across *using* it if theres any other issues just open a issue on this repository.
